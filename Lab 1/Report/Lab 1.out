@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Task A: Setup the Electrocardiogram Device}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Assembling the Provided Kit}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Obtaining From the ECG}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Task B: ECG Digital Signal Processing}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Connecting the ECG to the Oscilloscope}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Connect the ECG to the Arduino for Real-Time ECG Display}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Building A Band-Pass Filter for the ECG Signal}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Task C: Computing the Limb Leads \046 Augmented Leads}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Computing the Voltages for Lead I, II, and III}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Calculating aVL, aVR, and aVF}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Computing a Vectorcardiogram in the Frontal Plane}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Task D: Extraction of R Wave \046 Vectorcardiogram Conversion}{}% 12
+\BOOKMARK [1][-]{section.5}{Task E: Stress Test Validation}{}% 13

@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Task A: Setup the Electrocardiogram Device}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Assembling the Provided Kit}{3}{subsection.1.1}
+\contentsline {paragraph}{}{3}{section*.2}
+\contentsline {subsection}{\numberline {1.2}Obtaining From the ECG}{3}{subsection.1.2}
+\contentsline {paragraph}{}{3}{section*.3}
+\contentsline {section}{\numberline {2}Task B: ECG Digital Signal Processing}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Connecting the ECG to the Oscilloscope}{4}{subsection.2.1}
+\contentsline {paragraph}{}{4}{section*.4}
+\contentsline {subsection}{\numberline {2.2}Connect the ECG to the Arduino for Real-Time ECG Display}{4}{subsection.2.2}
+\contentsline {paragraph}{}{4}{section*.5}
+\contentsline {subsection}{\numberline {2.3}Building A Band-Pass Filter for the ECG Signal}{6}{subsection.2.3}
+\contentsline {paragraph}{}{6}{section*.6}
+\contentsline {section}{\numberline {3}Task C: Computing the Limb Leads \& Augmented Leads}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Computing the Voltages for Lead I, II, and III}{6}{subsection.3.1}
+\contentsline {paragraph}{}{6}{section*.7}
+\contentsline {subsection}{\numberline {3.2}Calculating aVL, aVR, and aVF}{8}{subsection.3.2}
+\contentsline {paragraph}{}{8}{section*.8}
+\contentsline {subsection}{\numberline {3.3}Computing a Vectorcardiogram in the Frontal Plane}{9}{subsection.3.3}
+\contentsline {paragraph}{}{9}{section*.9}
+\contentsline {section}{\numberline {4}Task D: Extraction of R Wave \& Vectorcardiogram Conversion}{9}{section.4}
+\contentsline {paragraph}{}{9}{section*.10}
+\contentsline {section}{\numberline {5}Task E: Stress Test Validation}{10}{section.5}
+\contentsline {paragraph}{}{10}{section*.11}
